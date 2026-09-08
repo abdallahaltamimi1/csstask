@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.whole{
+    background-color:rgb(235, 191, 153) ;
+    padding-top: 1px;
+    margin: 4px;
+}
+.span1{
+background-color: orange;
+font-weight: 100px;
+ font-weight: bold;
+}
+.span2{
+    background-color: yellowgreen;
+    font-weight: 200;
+     font-weight: bold;
+
+}
+.par1{
+    background-color: white;
+    border-style: groove;
+    width: 60%;
+    height: 20%;
+    
+}
+.par2{
+     background-color: white;
+    border-style: dashed;
+    width: 60%;
+    height: 20%;
+    margin-top: 20px;
+
+}
+.p2{
+     border-style: dashed;
+     border-color: brown;
+     margin: 3px;
+
+}
+.par3{
+    background-color: white;
+    border-style: groove;
+    width: 60%;
+    height: 20%;
+    margin-top: 20px;
+
+    color: blueviolet;
+}
+.span12{
+    background-color: yellow;
+    font-weight: bold;
+}
